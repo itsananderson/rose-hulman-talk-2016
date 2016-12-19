@@ -81,7 +81,7 @@ output: index.html
 
 --
 
-# Customer Privacy
+### Customer Privacy
 
 - Facebook
 - Uber
@@ -117,6 +117,6 @@ output: index.html
 
 ### Looking For a Job?
 
-Email me your resume if you're interested in an internship or a full time position
+Email me your resume if you're interested in an internship or a full time position at Microsoft
 
 will@itsananderson.com
